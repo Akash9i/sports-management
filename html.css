@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sports Management Company</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="hero">
+            <h1>Welcome to our Sports Management Company</h1>
+            <p>We are a team of dedicated professionals who are passionate about helping athletes achieve their goals.</p>
+            <button>Learn More</button>
+        </section>
+        <section class="services">
+            <h2>Our Services</h2>
+            <ul>
+                <li><a href="#">Athlete Representation</a></li>
+                <li><a href="#">Marketing and Promotion</a></li>
+                <li><a href="#">Event Management</a></li>
+                <li><a href="#">Training and Development</a></li>
+            </ul>
+        </section>
+        <section class="athletes">
+            <h2>Our Athletes</h2>
+            <ul>
+                <li><img src="athlete1.jpg" alt="Athlete 1"></li>
+                <li><img src="athlete2.jpg" alt="Athlete 2"></li>
+                <li><img src="athlete3.jpg" alt="Athlete 3"></li>
+                <li><img src="athlete4.jpg" alt="Athlete 4"></li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Sports Management Company</p>
+    </footer>
+</body>
+</html>
